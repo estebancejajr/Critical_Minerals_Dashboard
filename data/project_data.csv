@@ -1,0 +1,146 @@
+source,mineral,country,country_clean,iso3,year,value,unit,commodity,statistic,source_note
+USGS MCS 2026,Boron,Argentina,Argentina,ARG,2024,160,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Bolivia,Bolivia,BOL,2024,230,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Chile,Chile,CHL,2024,470,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,China,China,CHN,2024,210,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Germany,Germany,DEU,2024,45,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Peru,Peru,PER,2024,190,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Russia,Russia,RUS,2024,90,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Turkey,Turkey,TUR,2024,1800,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Argentina,Argentina,ARG,2025,170,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Bolivia,Bolivia,BOL,2025,380,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Chile,Chile,CHL,2025,300,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,China,China,CHN,2025,230,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Germany,Germany,DEU,2025,40,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Peru,Peru,PER,2025,220,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Russia,Russia,RUS,2025,80,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Turkey,Turkey,TUR,2025,1500,thousand metric tons,Boron,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,United States,United States,USA,2025,48000,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Chile,Chile,CHL,2025,35000,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,China,China,CHN,2025,9100,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Peru,Peru,PER,2025,4000,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Russia,Russia,RUS,2025,40000,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Boron,Turkey,Turkey,TUR,2025,950000,thousand metric tons,Boron,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2021,42400,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2021,120,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2022,42500,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2022,95,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2023,41600,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2023,800,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2024,45500,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2024,4300,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2025,51000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2025,8900,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Australia,Australia,AUS,2024,29000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Brazil,Brazil,BRA,2024,560,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Burma,Myanmar,MMR,2024,27000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,China,China,CHN,2024,270000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,India,India,IND,2024,2900,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Madagascar,Madagascar,MDG,2024,1400,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Malaysia,Malaysia,MYS,2024,140,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Nigeria,Nigeria,NGA,2024,1500,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Russia,Russia,RUS,2024,2600,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Thailand,Thailand,THA,2024,2100,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Vietnam,Vietnam,VNM,2024,300,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Australia,Australia,AUS,2025,29000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Brazil,Brazil,BRA,2025,2000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Burma,Myanmar,MMR,2025,22000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,China,China,CHN,2025,270000,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,India,India,IND,2025,2900,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Madagascar,Madagascar,MDG,2025,2700,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Malaysia,Malaysia,MYS,2025,110,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Nigeria,Nigeria,NGA,2025,1500,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Russia,Russia,RUS,2025,2600,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Thailand,Thailand,THA,2025,4800,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Vietnam,Vietnam,VNM,2025,150,metric tons,Rare Earths,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,United States,United States,USA,2025,1900000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Australia,Australia,AUS,2025,6300000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Brazil,Brazil,BRA,2025,21000000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Canada,Canada,CAN,2025,830000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,China,China,CHN,2025,44000000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Greenland,Greenland,GRL,2025,1500000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Malaysia,Malaysia,MYS,2025,710000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Russia,Russia,RUS,2025,3800000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,South Africa,South Africa,ZAF,2025,860000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Tanzania,Tanzania,TZA,2025,890000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Rare earths,Vietnam,Vietnam,VNM,2025,3500000,metric tons,Rare Earths,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2021,100000,metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2022,100000,metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2023,100000,metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2024,100000,metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2025,100000,metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2024,100,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Australia,Australia,AUS,2024,400,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,China,China,CHN,2024,100,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Indonesia,Indonesia,IDN,2024,81,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Madagascar,Madagascar,MDG,2024,31,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Mozambique,Mozambique,MOZ,2024,124,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Senegal,Senegal,SEN,2024,68,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Sierra Leone,Sierra Leone,SLE,2024,25,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,South Africa,South Africa,ZAF,2024,290,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2025,100,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Australia,Australia,AUS,2025,400,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,China,China,CHN,2025,100,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Indonesia,Indonesia,IDN,2025,52,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Madagascar,Madagascar,MDG,2025,26,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Mozambique,Mozambique,MOZ,2025,160,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Senegal,Senegal,SEN,2025,70,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Sierra Leone,Sierra Leone,SLE,2025,25,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,South Africa,South Africa,ZAF,2025,270,thousand metric tons,Zirconium,Production,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,United States,United States,USA,2025,500,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Australia,Australia,AUS,2025,55000,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,China,China,CHN,2025,500,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Indonesia,Indonesia,IDN,2025,3400,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Madagascar,Madagascar,MDG,2025,2100,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Mozambique,Mozambique,MOZ,2025,1500,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Senegal,Senegal,SEN,2025,2600,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,Sierra Leone,Sierra Leone,SLE,2025,290,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+USGS MCS 2026,Zirconium,South Africa,South Africa,ZAF,2025,5900,thousand metric tons,Zirconium,Reserves,USGS Mineral Commodity Summaries 2026
+BGS World Mineral Statistics,Uranium,China,China,CHN,2021,1600,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,China,China,CHN,2022,1700,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,China,China,CHN,2023,1600,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,India,India,IND,2021,600,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,India,India,IND,2022,600,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,India,India,IND,2023,485,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Iran,Iran,IRN,2021,21,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Iran,Iran,IRN,2022,20,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Iran,Iran,IRN,2023,20,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Pakistan,Pakistan,PAK,2021,45,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Pakistan,Pakistan,PAK,2022,45,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Pakistan,Pakistan,PAK,2023,45,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Kazakhstan,Kazakhstan,KAZ,2021,21819,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Kazakhstan,Kazakhstan,KAZ,2022,21227,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Kazakhstan,Kazakhstan,KAZ,2023,21109,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Australia,Australia,AUS,2021,4474,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Australia,Australia,AUS,2022,5377,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Australia,Australia,AUS,2023,5512,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Canada,Canada,CAN,2021,4768,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Canada,Canada,CAN,2022,7368,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Canada,Canada,CAN,2023,11373,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Ukraine,Ukraine,UKR,2021,455,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Ukraine,Ukraine,UKR,2022,100,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Ukraine,Ukraine,UKR,2023,340,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Uzbekistan,Uzbekistan,UZB,2021,3526,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Uzbekistan,Uzbekistan,UZB,2022,3561,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Uzbekistan,Uzbekistan,UZB,2023,3600,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,USA,USA,USA,2021,8,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,USA,USA,USA,2022,75,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,USA,USA,USA,2023,19,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Russia,Russia,RUS,2021,2635,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Russia,Russia,RUS,2022,2508,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Russia,Russia,RUS,2023,2710,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Czech Republic,Czech Republic,CZE,2021,27,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Czech Republic,Czech Republic,CZE,2022,21,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Czech Republic,Czech Republic,CZE,2023,13,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Namibia,Namibia,NAM,2021,5754,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Namibia,Namibia,NAM,2022,5612,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Namibia,Namibia,NAM,2023,6987,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Niger,Niger,NER,2021,2281,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Niger,Niger,NER,2022,2020,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Niger,Niger,NER,2023,1130,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,South Africa,South Africa,ZAF,2021,153,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,South Africa,South Africa,ZAF,2022,188,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,South Africa,South Africa,ZAF,2023,275,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Brazil,Brazil,BRA,2021,29,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Brazil,Brazil,BRA,2022,43,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production
+BGS World Mineral Statistics,Uranium,Brazil,Brazil,BRA,2023,40,tonnes (metal content),,Mine production of uranium,BGS API record; group = ; statistic type = Production

@@ -1,0 +1,5 @@
+data/baci_raw/
+data/.DS_Store
+.Rapp.history
+prep_data.R
+prepare_import_data.R
